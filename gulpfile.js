@@ -1,4 +1,4 @@
-// VARIABLES & PATHS +++
+// VARIABLES & PATHS 
 
 let preprocessor = 'sass', // Preprocessor (sass, scss, less, styl)
 		fileswatch   = 'html,htm,txt,json,md,woff2', // List of files extensions for watching & hard reload (comma separated)
