@@ -1,6 +1,6 @@
 <h1>Webdesignmaster Slider with OctoberCMS</h1>
 
-### [swiperslider.netlify.app](swiperslider.netlify.app)
+### [swiperslider.netlify.app](https://swiperslider.netlify.app/)
 
 <pre>git clone</pre>
 
